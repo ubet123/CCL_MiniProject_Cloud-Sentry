@@ -41,7 +41,7 @@ As enterprises migrate to the cloud, S3 buckets have become a primary target for
 The system follows a **decoupled, asynchronous** workflow:
 
 
-![Cloud-Sentry Architecture](./CCL_ArchitectureDiagram.jpeg)
+![Cloud-Sentry Architecture](./ArchitectureDiagram.jpeg)
 
 ### Workflow Stages
 
